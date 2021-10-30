@@ -1,3 +1,17 @@
+# Author's Description
+Below this section are some instructions to enable you to run the app as give by the React people. You should just need
+to do an npm install and npm start once you've navigated to the project directory and it'll open by itself in your default browser.
+
+Had I got more time. Well I spent a fair bit of time on this and then decided it was getting a bit silly for a Saturday night, I wanted my wine, so I finally put it down.
+
+I would style it better because it's pretty ugly. I'd put better feedback in place for when a user has made their payment. I've been re-teaching myself React along the way which is partly why I'd put more time into it so I'm liking React again, but commercially more experienced in Vue.
+
+I think that's about it really. Cosmetics. Maybe some code tidies. In particular for the form; I think I could have written a single function to handle input, receive the input and pass a field name along the way enabling a single function to handle all of it because it would then be able to modify the state for any of the fields. That kind of thing.
+
+Cheers
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
