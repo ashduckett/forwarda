@@ -1,0 +1,12 @@
+.text-field {
+    flex: 1;
+    position: relative;
+}
+
+.text-field input {
+    width: 100%;
+}
+
+.text-field.radio-button input {
+    width: 20px;
+}

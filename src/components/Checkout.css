@@ -1,0 +1,69 @@
+.checkout {
+    flex: 1;
+    background-color: turquoise;
+}
+
+.checkout h3 {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.checkout-form {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.checkout-form input, .checkout-form button  {
+    margin-bottom: 25px;
+    border: none;
+    border-radius: 8px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.card-or-paypal {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+    gap: 25px;
+}
+
+.expiry-and-cvv {
+    display: flex;
+    gap: 25px;
+}
+
+.expiry-and-cvv input {
+    flex: 1;
+}
+
+.radio-and-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.radio-and-label label {
+    margin-left: 10px;
+}
+
+.radio-and-label input {
+    margin: 0;
+    padding: 0;
+}
+
+.thank-you {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error {
+    position: absolute;
+    top: 100%;
+    transform: translateY(-23px);
+    font-size: 13px;
+    color: red;
+}

@@ -1,0 +1,10 @@
+.stock-list {
+    padding: 25px;
+    display: flex;
+}
+
+.scroll-box {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+}
